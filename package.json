@@ -1,0 +1,19 @@
+{
+  "name": "solc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node deploy.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^7.0.0",
+    "solc": "^0.4.25",
+    "truffle-hdwallet-provider": "^0.0.6",
+    "truffle-privatekey-provider": "^0.1.0",
+    "web3": "1.0.0-beta.36"
+  }
+}
